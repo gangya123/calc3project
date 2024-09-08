@@ -1,6 +1,6 @@
 import unittest
 
-from calc3project.src.calc3project.calc import Calc
+from src.calc3project.calc import Calc
 
 
 class TestExecuteSort(unittest.TestCase):
