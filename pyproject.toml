@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "calc3project"
+version = "0.1.0"
+description = "自动化测试的尝试"
+readme = "README.md"
+authors = ["18739570240@163.com"]
+license = "MIT"
+classifiers = [
+    "Operating System :: Windows",
+    "Programming Language :: Python :: 3.12",
+]
